@@ -1,0 +1,6 @@
+/home/jon/Documents/DataStructsCpp/CMakeFiles/rebuild_cache.dir
+/home/jon/Documents/DataStructsCpp/CMakeFiles/edit_cache.dir
+/home/jon/Documents/DataStructsCpp/trie/CMakeFiles/edit_cache.dir
+/home/jon/Documents/DataStructsCpp/trie/CMakeFiles/main.dir
+/home/jon/Documents/DataStructsCpp/trie/CMakeFiles/rebuild_cache.dir
+/home/jon/Documents/DataStructsCpp/trie/CMakeFiles/trie_lib.dir

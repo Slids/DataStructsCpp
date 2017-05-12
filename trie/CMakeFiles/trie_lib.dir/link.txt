@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtrie_lib.a  CMakeFiles/trie_lib.dir/trie.cc.o
+/usr/bin/ranlib libtrie_lib.a

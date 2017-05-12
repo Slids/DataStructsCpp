@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jon/Documents/DataStructsCpp/trie/main.cc
+iostream
+-
+trie.h
+/home/jon/Documents/DataStructsCpp/trie/trie.h
+vector
+-
+string
+-
+
+/home/jon/Documents/DataStructsCpp/trie/trie.h
+set
+-
+string
+-
+unordered_map
+-
+memory
+-
+vector
+-
+iostream
+-
+

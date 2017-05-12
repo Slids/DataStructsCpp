@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/main.dir/main.cc.o  -o main  -L/home/jon/Documents/DataStructsCpp/trie -Wl,-rpath,/home/jon/Documents/DataStructsCpp/trie -rdynamic libtrie_lib.a 

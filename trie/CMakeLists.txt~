@@ -1,0 +1,2 @@
+include_directories(${DATASTRUCTURES_SOURCE_DIR}/w01-cpp)
+link_directories(${DATASTRUCTURES_BINARY_DIR}/w01-cpp)
